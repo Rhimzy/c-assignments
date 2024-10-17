@@ -1,0 +1,19 @@
+a.1 Write a C program to input a number from the user and check whether it is positive, negative, or zero using if-else.
+
+a.2 Write a C program that takes an integer input and checks whether the number is even or odd using if-else.
+
+a.3 Write a C program that takes three numbers as input and prints the largest of the three.
+
+a.4 Write a C program that takes a positive integer N as input and prints the sum of the first N natural numbers using a for loop.
+
+a.5 Write a C program to calculate the factorial of a number.
+
+a.6 Write a C program that takes a number as input and checks whether it is a prime number using a for loop and if-else.
+
+a.7 Write a C program that takes an integer as input and prints its multiplication table up to 10 using a for loop.
+
+a.8 Write a C program to calculate the sum of all even and odd numbers between 1 and a given number N using a for loop.
+
+a.9 Write a C program to input a string and count the number of vowels (a, e, i, o, u) in it using a for loop and if-else.
+
+a.10 Write a C program to check whether a given number is a palindrome (a number that reads the same forward and backward) using a while loop
