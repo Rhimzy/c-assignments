@@ -22,7 +22,7 @@ int second() {
     int rows;
     printf("Enter Number of Rows: ");
     scanf("%d", &rows);
-    for 
+
 }
 
 void main() {
